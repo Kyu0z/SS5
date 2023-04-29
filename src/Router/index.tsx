@@ -1,6 +1,5 @@
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import NotFound from "../Pages/Error/NotFound";
-import Main from "@src/Members/MDK/Main";
 import KingDetail from "@src/Members/MDK/Rooms/King/KingDetail";
 import StandardDetail from "@src/Members/MDK/Rooms/Standard/StandardDetail";
 import DoubleDetail from "@src/Members/MDK/Rooms/Double/DoubleDetail";
